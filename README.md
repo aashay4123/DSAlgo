@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Data Structures & Algorithms for Coding Interview</h1>
+<h1>Data Structures & Algorithms</h1>
 <p align="center">
 <a href="#">  
 <img alt="Stars" src="https://img.shields.io/github/stars/SamirPaulb/DSAlgo"> 
